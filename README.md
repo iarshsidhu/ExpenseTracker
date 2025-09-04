@@ -8,11 +8,11 @@ It also supports **theme switching (Light/Dark)** and lets you **change the curr
 Dependency Injection is handled with **Hilt** for clean architecture.
 
 # Preview
-<img src="https://github.com/user-attachments/assets/ed4c1eca-880e-4179-bd5a-9d62578d4ac9" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/cae0cb06-4875-4187-809a-01ff5feb755a" width="300" height="600">
 
-<img src="https://github.com/user-attachments/assets/43fc735d-2ed1-4432-9235-298a97964bdc" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/31bdab56-2812-4e66-89ff-d57079a25e43" width="300" height="600">
 
-https://github.com/user-attachments/assets/11622607-b449-4eab-b61e-198a15eb31ef
+https://github.com/user-attachments/assets/4948733d-f43f-41fa-86a1-ebd1dd9d6470
 
 # 🛠️ Libraries and technologies used
 - **Jetpack Compose** : For building the app’s UI.
